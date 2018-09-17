@@ -1,0 +1,50 @@
+_repo: Corinne-or-Italy_52077
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: L. E. L. (Letitia Elizabeth Landon)
+    aliases:
+    - MacLean, Mrs.
+    - LEL (Letitia Elizabeth Landon)
+    - Landon, Letitia Elizabeth
+    - Landon, Miss (Letitia Elizabeth)
+    - Landon, Letitia E. (Letitia Elizabeth)
+    - Landon, L. E. (Letitia Elizabeth)
+    birthdate: 1802
+    deathdate: 1838
+    gutenberg_agent_id: '46661'
+    url: http://www.gutenberg.org/2009/agents/46661
+  - agent_name: Hill, Isabel
+    birthdate: 1800
+    deathdate: 1842
+    gutenberg_agent_id: '46660'
+    url: http://www.gutenberg.org/2009/agents/46660
+creator:
+  author:
+    agent_name: Staël, Madame de (Anne-Louise-Germaine)
+    aliases:
+    - Stael, Madame de (Anne-Louise-Germaine)
+    - De Staël, Madame (Anne-Louise-Germaine)
+    - Staël-Holstein, Anne Louise Germaine Necker Baronne de
+    birthdate: 1766
+    deathdate: 1817
+    gutenberg_agent_id: '1535'
+    url: http://www.gutenberg.org/2009/agents/1535
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Scotland -- Fiction'
+- !lcsh 'Women poets -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Italy -- History -- 1789-1815 -- Fiction'
+- GITenberg
+title: Corinne; or, Italy
+url: http://www.gutenberg.org/ebooks/52077
